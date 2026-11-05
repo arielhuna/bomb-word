@@ -4,7 +4,7 @@
 
 **משחק מסיבות לטלפון: מסבירים מילה לקבוצה, מעבירים את הפצצה, ומקווים שהיא לא תתפוצץ אצלכם.**
 
-[**▶ לשחק עכשיו**](https://arielhone.github.io/bomb-word/) · [מהלך המשחק](#מהלך-המשחק) · [ארכיטקטורה](#ארכיטקטורה) · [עדכון ופריסה](#עדכון-ופריסה) · [בדיקות](#פיתוח-ובדיקות)
+[**▶ לשחק עכשיו**](https://arielhuna.github.io/bomb-word/) · [מהלך המשחק](#מהלך-המשחק) · [ארכיטקטורה](#ארכיטקטורה) · [עדכון ופריסה](#עדכון-ופריסה) · [בדיקות](#פיתוח-ובדיקות)
 
 ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-no_build-F7DF1E?logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-Auth_·_Realtime_Database-FFCA28?logo=firebase&logoColor=black)
